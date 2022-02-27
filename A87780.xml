@@ -1,0 +1,382 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings forces totally routed by the Parliaments army, under the command of Major Generall Poyntz and Cheshire-Forces, on Routon-Heath, within two miles of Chester, Sept. 24. Together with the state of the siege at Chester; and a list of the lords, knights, commanders and common souldiers slain and taken prisoners; there being above one thousand prisoners taken, and the whole army routed. Ordered by the Commons assembled in Parliament, that this be forthwith printed and published: H: Elsynge, Cler. Parl. D. Com.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87780</idno>
+            <idno type="STC">Wing K595</idno>
+            <idno type="STC">Thomason E303_18</idno>
+            <idno type="STC">ESTC R200297</idno>
+            <idno type="EEBO-CITATION">99861103</idno>
+            <idno type="PROQUEST">99861103</idno>
+            <idno type="VID">154401</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87780)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154401)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 50:E303[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings forces totally routed by the Parliaments army, under the command of Major Generall Poyntz and Cheshire-Forces, on Routon-Heath, within two miles of Chester, Sept. 24. Together with the state of the siege at Chester; and a list of the lords, knights, commanders and common souldiers slain and taken prisoners; there being above one thousand prisoners taken, and the whole army routed. Ordered by the Commons assembled in Parliament, that this be forthwith printed and published: H: Elsynge, Cler. Parl. D. Com.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husband, printer to the Honorable House of Commons.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>Sept. 29. 1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Poyntz, Sydenham.</term>
+               <term>Chester (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649. --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154401:1"/>
+            <!-- PDF PAGE 84 -->
+            <pb facs="tcp:154401:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 84 -->
+            <p>The Kings Forces Totally ROVTED By the Parliaments Army, under the Command of Major Generall POYNTZ and <hi>Cheſhire</hi>-Forces, on <hi>Routon-Heath,</hi> within two miles of <hi>Cheſter,</hi> Sept. 24. Together with The ſtate of the Siege at <hi>Cheſter;</hi> AND A Liſt of the Lords, Knights, Commanders and common Souldiers ſlain and taken priſoners; There being above One thouſand priſoners taken, and the whole Army Routed.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>ORdered by the Commons aſſembled in Parliament, That this be forthwith printed and publiſhed:</p>
+                        <closer>
+                           <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed for <hi>Edward Husband,</hi> Printer to the Hono<g ref="char:EOLhyphen"/>rable Houſe of Commons. Sept. 29. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:154401:2"/>
+            <!-- PDF PAGE 85 -->
+            <pb n="3" facs="tcp:154401:2"/>
+            <!-- PDF PAGE 85 -->
+            <head>To the Honorable <hi>William Lenthall</hi> Eſquire, Speaker of the Houſe of Commons.</head>
+            <opener>
+               <salute>Honourable Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">V</seg>VEE ſtill keep the Suburbs of Che<g ref="char:EOLhyphen"/>ſter, and yeſterday joyning our forces with Major Generall <hi>Poyntz,</hi> God gave us a great Victory over the Kings Army, whereby God hath not onely given us, but the Kingdom much cauſe of joy and thankfulneſſe: We have ſuch earneſt buſineſſe at pre<g ref="char:EOLhyphen"/>ſent upon us, that we our ſelves cannot have time to re<g ref="char:EOLhyphen"/>preſent to you the particulars, but have commanded the Chaplain to our Forces, who was an eye witnes to all that was done, to give you a full accompt thereof: All that we ſhall trouble you with at inſtant, is to re<g ref="char:EOLhyphen"/>new our humble requeſts, that you will be pleaſed to expedite our Remonſtrance, and procure a ſpeedy Order for moneys to be with all poſſible ſpeed con<g ref="char:EOLhyphen"/>veyed to us; otherwiſe, we ſhall not be able to keep ſuch Forces together, as are neceſſary for this work: And ſo with tender of our Service, reſt</p>
+            <closer>
+               <signed>Your moſt humble Servants,
+<list>
+                     <item>
+                        <hi>G: Boothe.</hi>
+                     </item>
+                     <item>
+                        <hi>Ph: Mainwaringe.</hi>
+                     </item>
+                     <item>
+                        <hi>Rog: Wilbraham.</hi>
+                     </item>
+                  </list>
+               </signed>
+               <dateline>
+                  <hi>Cheſter</hi> Suburbs, <date>
+                     <hi>Sept.</hi> 25. at 3. <hi>poſt Meridiem.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div n="battle" type="account">
+            <pb n="4" facs="tcp:154401:3"/>
+            <!-- PDF PAGE 86 -->
+            <head>A true Relation of the great Fight, and Routing the Kings forces on Routon Heath, Sept. 24.</head>
+            <p>IT pleaſed God upon Saturday morning, Sept. 20. 1645. about break of day to de<g ref="char:EOLhyphen"/>liver into the hands of the Cheſhire forces, though few in number, under the command of Col: <hi>Michael Iones,</hi> and Adjutant <hi>Louthian,</hi> The Suburbs of the city of <hi>Cheſter,</hi> formerly accounted for to Sir <hi>Wil: Brereton;</hi> in which expedition (though by ſtorm) we loſt but one man; the Enemy fired moſt part of the Suburbs; Cow-lane, St. Johns lane, and the ſtreet without the North gate; our care was to haſten to the taking of the City, without which the diſeaſed county could never be cu<g ref="char:EOLhyphen"/>red. Vpon the Lords day we brought in our Artillery, fixt a battery, &amp; upon <hi>Monday</hi> made a great breach in the wall, reſolving to ſtorm it at night, which we endeavoured in 3. or 4. places, but the Ladders proved too ſhort, and the breach too high on the inſide, ſo they made their retreat with the loſſe of two men, and ſome wounded. The Suburbs were en<g ref="char:EOLhyphen"/>tred by Captain <hi>Gimbert,</hi> the breach by Cap<g ref="char:EOLhyphen"/>tain <hi>Finch,</hi> both of them ſtout and truſty men; though God deferred that mercy we
+<pb n="5" facs="tcp:154401:3"/>
+               <!-- PDF PAGE 86 -->hoped for, in gaining the City, he gave us a better, the utter Routing and ſpoiling of the Kings Army; which was thus performed.</p>
+            <p>Our Intelligence upon <hi>Monday</hi> Sept. 21. was, that the King was at <hi>Chirke</hi> Caſtle, in<g ref="char:EOLhyphen"/>tending for <hi>Cheſter:</hi> Upon <hi>Tueſday,</hi> two truſty men were ſent to ſeek Major Gen. <hi>Poyntz,</hi> who was appointed to follow the King, but we heard nothing of him; they meeting with him at <hi>Whitchurch,</hi> and acquainting him with our preſent condition (who were like to be Stormed that night) he haſtned away, marched all night, though tired with long marches before: About ſix a clock <hi>Wedneſday</hi> morning, he advanced within a mile of the Enemy, three miles from <hi>Cheſter,</hi> the one not knowing of the other; upon notice, both ſet themſelves in a poſture; Generall <hi>Poyntz</hi> upon <hi>Hatton</hi> Heath, divided from the Ene<g ref="char:EOLhyphen"/>my on the <hi>Milne</hi> Heath by a Lane, they being betwixt him and the City: he firſt charged them though upon a diſadvantage, becauſe the Enemies whole body was not come up, but had a repulſe, in which that gallant Gentleman Col: <hi>Graves</hi> was ſore wounded, &amp; Col: <hi>Bothell,</hi> but not ſo dangerouſly; about
+<pb n="6" facs="tcp:154401:4"/>
+               <!-- PDF PAGE 87 -->20. men ſlain, many wounded; but we hear the Enemies loſſe was greater, however, upon the retreat, it was noiſed that Gen: <hi>Poyntz</hi> was utterly Routed, which vvas ſad nevvs to our Forces in <hi>Cheſter;</hi> who upon conſultation, at firſt thought it fit to quit the Suburbs, leaſt the Army miſcarrying, all ſhould be loſt; but upon Intelligence that <hi>Poyntz</hi> kept his ground and ſtood in a body, they re<g ref="char:EOLhyphen"/>ſolved to keep what ground they had gotten for the gaining of <hi>Cheſter,</hi> and to aſsiſt Gene<g ref="char:EOLhyphen"/>tall <hi>Poyntz</hi> with Horſe and Foot, which he ſent for, and they promiſed: The ſignall of their march from the Suburbs, was the diſcharge of two piece of Ordnance, at which there was great ſhouting in Generall <hi>Poyntz</hi> campe, who without us could nei<g ref="char:EOLhyphen"/>ther charge the Enemy, nor make good their Retreat if need ſhould require: God in his good Providence deferred the work to that time of the day, that we might finde the fruit of many Prayers made for us, it being the monethly Faſt, and by this acceſsion to vindicate our innocency, who were aſperſt for a factious county, and mutinous Souldiery, though vve can profeſſe it be<g ref="char:EOLhyphen"/>fore
+<pb n="7" facs="tcp:154401:4"/>
+               <!-- PDF PAGE 87 -->God and the vvorld, that vve knovv not that county where the Gentry and Com<g ref="char:EOLhyphen"/>manders are more firmly ſemented in the band of true affection then this, nor a Soul<g ref="char:EOLhyphen"/>diery more obedient to commands, conſtant upon duty, and now free from mutinies. Ma<g ref="char:EOLhyphen"/>ny of the Gentlemen of the county reſorted to us, gave their beſt aſsiſtance for the carry<g ref="char:EOLhyphen"/>ing on of this Work, upon whoſe ſhoulder no ſmall burden lies to regulate theſe trou<g ref="char:EOLhyphen"/>bled affairs: It vvas agreed by them, that Col. <hi>Iones,</hi> a dextrous and reſolute Souldier, ſhould go out with the command of Horſe &amp; Foot, 350. and 500. The Foot were led by Col. <hi>Iohn Booth</hi> governor of Warington, who was very forward in that Expedition: Adjutant Gen: <hi>Louthian</hi> a man of known worth, was to keep the ſuburbs; a work of great truſt &amp; courage.</p>
+            <p>When theſe forces joyned with Gen. <hi>Poyntz</hi> there was great joy in the camp, the Enemy formed themſelves into a body upon <hi>Routon</hi> Heath, two miles from <hi>Cheſter,</hi> and ſtood in Batalia, being about 5000. as their own par<g ref="char:EOLhyphen"/>ty confeſſe, having drained their Garriſons: We haſtned towards them in the beſt poſture we could, the Horſe was the Battell, becauſe
+<pb n="8" facs="tcp:154401:5"/>
+               <!-- PDF PAGE 88 -->many, the wings were Foot becauſe few; they had the Wind and Sun; we had God with us, which was our Word, counterpoi<g ref="char:EOLhyphen"/>ſing all diſadvantages, and countermanding all ſtrength; a little before 5. a clock, we joy<g ref="char:EOLhyphen"/>ned in a terrible ſtorm, firing in the faces of one another, hacking &amp; ſlaſhing with ſvvords neither party gain'd or loſt a foot of ground, as if every one vvere reſolved there to breath their laſt: Whilſt the diſpute vvas ſo hot and doubtfull, our Muſquetiers ſo galled their horſe, that their Rear fled, perceiving their loſſe by them, upon whom they made no Execution: Their Van perceiving that, faced about, and fled alſo: We had nothing then to do, but to purſue and make Execution, which we did to purpoſe, for though the ways were ſtrewed with Arms, Portmantles, Cloak-bags, and Horſe, vve left thoſe to any that vvould pillage, and fell to Execution: Some part vve chaſed to Holt bridge, the moſt tovvards <hi>Cheſter;</hi> ſome ſay the King vvas in the field, others that he vvent out with a par<g ref="char:EOLhyphen"/>ty, next after mentioned; but certain it is, he vvent out from the City by the North gate, and thither retreated, for that gate is vvithout our Works.</p>
+            <pb n="9" facs="tcp:154401:5"/>
+            <!-- PDF PAGE 88 -->
+            <p>A memorable ſervice was performed by the <hi>Shropſhire</hi> Forces, at the appoint<g ref="char:EOLhyphen"/>ment of Livetenant <hi>Louthiane,</hi> who were part of them that kept the ſub<g ref="char:EOLhyphen"/>urbs. When Collonel <hi>Iones</hi> was marcht out to ioyne with Generall <hi>Poyntz,</hi> there iſſued out after him through the North-gate (with which party its affirmed the King went) about ſixe hundred horſe and three hundred foote of the Kings and Queens Regiments and General <hi>Gerrards</hi> Lifeguard. Adjutant <hi>Louthiane</hi> ſent after them about two hundred of the <hi>Shropſhire</hi> horſe, com<g ref="char:EOLhyphen"/>manded by Livetenant Collonel <hi>Coote</hi> in chiefe, the ſecond diviſion by Collonel <hi>Prince,</hi> the laſt by Ma: <hi>Fenwicke</hi> and two hundred foote commanded by Captain <hi>Daniell,</hi> theſe gallantly performed what they undertooke, routed and chaſed the e<g ref="char:EOLhyphen"/>nemy, ſlew the Earle of <hi>Leichfield</hi> and o<g ref="char:EOLhyphen"/>thers, tooke divers principall officers and followed the execution foure miles.</p>
+            <p>After we thought the worke was ended,
+<pb n="10" facs="tcp:154401:6"/>
+               <!-- PDF PAGE 89 -->the enemy made head againe, and they that eſcaped in the field and about <hi>Che<g ref="char:EOLhyphen"/>ſter,</hi> ioyned in another body, fell upon part of our forces with advantage (for they were deſperate ſeeing they had loſt the day) drave them to our mud walls, where the guards made execution on them, and ſome ſmall meaſure upon ours in the reare, through miſtake: ſo they fled towards <hi>Bridgetrafford</hi> being ignorant of the Foote, where they were driven into deepe dit<g ref="char:EOLhyphen"/>ches, and boggy places. The Country men ſet on them there, tooke one hundred horſe and ſixty perſons. Others fled into the forreſt where they are met with.</p>
+            <p>Whilſt wee were thus engaged in the field the enemy taking advantage of the ſmall number left in the ſuburbs attempted the regaining of them in many places; but were every where gallantly repulſed with loſſe by adjutant <hi>Louthiane.</hi>
+            </p>
+            <p>We cannot give a particular account of the number of the ſlaine, which were
+<pb n="11" facs="tcp:154401:6"/>
+               <!-- PDF PAGE 89 -->many, neither know wee our owne loſſe, but that it is very ſmall. Wee have taken the Earle of <hi>Portlands</hi> brother, with many conſiderable perſons: Knights, and offi<g ref="char:EOLhyphen"/>cers, above one thouſand priſoners; And its probable that of the five thouſand they ſay was in the field, the King will hardly rally one thouſand, wee deſire the honour of this victory may be given to God alone, to whom alone it is due, his Inſtruments behaved themſelves gallant<g ref="char:EOLhyphen"/>ly, the <hi>Cheſhire</hi> Horſe were kowne moſt couragious, we deſire not vainely to glo<g ref="char:EOLhyphen"/>ry in any thing God hath done by us, but let the world ſay whether wee have been backward in the worke committed to us as ſome have ſuggeſted.</p>
+            <p>Let Souldiers iudge what it is for ſo ſmall a force to maintaine the leaguer at <hi>Beeſton,</hi> take and keep the outworks of <hi>Che<g ref="char:EOLhyphen"/>ſter,</hi> to aſſiſt others a farre off, and theſe in the field, and runne all hazard, rather than quit a foot of what we have gained. Nei<g ref="char:EOLhyphen"/>ther
+<pb n="12" facs="tcp:154401:7"/>
+               <!-- PDF PAGE 90 -->will we fixe here: Theſe are but the beginning of action to us, ſince our new moddle, ſo ſucceſſefull, ſo much diſpiſed.</p>
+            <p>Vpon Parliamentary ſupplyes already Pe<g ref="char:EOLhyphen"/>titioned, we truſt in him, whoſe ſoul<g ref="char:EOLhyphen"/>diers we are, to give as good account of our after proceedings, both in reducing this County and aſiſting the neighbour<g ref="char:EOLhyphen"/>hood.</p>
+         </div>
+         <div type="list_of_prisoners_taken">
+            <pb n="13" facs="tcp:154401:7"/>
+            <!-- PDF PAGE 90 -->
+            <head>Priſoners taken at, and after the Rowting of the Kings For<g ref="char:EOLhyphen"/>ces on <hi>Rowton Heath</hi> within two miles of <hi>Cheſter,</hi> the twenty fourth of <hi>Sep<g ref="char:EOLhyphen"/>tember,</hi> 1645.</head>
+            <list>
+               <head>Knights and Collonels.</head>
+               <item>SIr <hi>Philip Muſgrave</hi> Major Generall.</item>
+               <item>Collonel Sir <hi>Thomas Dawbrichcoate.</hi>
+               </item>
+               <item>Collonel Sir <hi>Thomas Dacres.</hi>
+               </item>
+               <item>Collonel Sir <hi>Michael Constable.</hi>
+               </item>
+               <item>Collonel ſir <hi>Thomas Goare.</hi>
+               </item>
+               <item>Collonel ſir <hi>Henry Stradling.</hi>
+               </item>
+               <item>Collonel <hi>Iohan Philiem Heitter.</hi>
+               </item>
+               <item>Collonel <hi>Weſton,</hi> ſonne to the late Lord Treaſurer.</item>
+               <pb n="14" facs="tcp:154401:8"/>
+               <!-- PDF PAGE 91 -->
+               <item>Collonel <hi>Gifford.</hi>
+               </item>
+               <item>Collonel <hi>Cromwell.</hi>
+               </item>
+               <item>Collonel <hi>Fletcher.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Lievtenant Collonels.</head>
+               <item>Lievten. Col. <hi>Matham.</hi>
+               </item>
+               <item>L. Collonel <hi>Millington.</hi>
+               </item>
+               <item>L. Collonel <hi>Hatton.</hi>
+               </item>
+               <item>L. Collonel <hi>Salkeld.</hi>
+               </item>
+               <item>L. Collonel <hi>Ruly.</hi>
+               </item>
+               <item>L. Collonel <hi>Broughton.</hi>
+               </item>
+               <item>L. Collonel <hi>Rutherford.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Majors.</head>
+               <item>Major <hi>VVilliams.</hi>
+               </item>
+               <item>Major Morris.</item>
+               <item>Major <hi>Magduggell.</hi>
+               </item>
+               <item>Major <hi>Magdoole.</hi>
+               </item>
+               <item>Major <hi>Lacymouth.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Captaines.</head>
+               <item>Captaine <hi>Martin.</hi>
+               </item>
+               <item>Captaine <hi>Swinlue.</hi>
+               </item>
+               <item>Captaine <hi>Henſhaw.</hi>
+               </item>
+               <item>Captaine <hi>VVhite.</hi>
+               </item>
+               <item>Captaine <hi>Gibbon.</hi>
+               </item>
+               <item>Captaine <hi>Starling.</hi>
+               </item>
+               <item>Captaine <hi>Sheley.</hi>
+               </item>
+               <item>Captaine <hi>Connyers.</hi>
+               </item>
+               <item>Captaine <hi>Johnſon.</hi>
+               </item>
+               <item>Captaine <hi>Dixon.</hi>
+               </item>
+               <item>Captaine <hi>Preſſe.</hi>
+               </item>
+               <item>Captaine <hi>Louther.</hi>
+               </item>
+               <item>Captaine <hi>VVilley.</hi>
+               </item>
+               <item>Captaine <hi>Moreton.</hi>
+               </item>
+               <item>Captaine <hi>Simpſon.</hi>
+               </item>
+               <item>Captaine <hi>Bell.</hi>
+               </item>
+               <item>Captaine <hi>Boulton.</hi>
+               </item>
+               <item>Captaine <hi>Vaughan.</hi>
+               </item>
+               <item>Captaine St. <hi>Michaels,</hi> Capt. of the Queens Troop, with him a Scarfe taken, which the Queen took from about her necke, and gave him to weare as Colours for her.</item>
+            </list>
+            <list>
+               <head>Lievtenants.</head>
+               <item>Lievtenant <hi>Cottrell.</hi>
+               </item>
+               <item>Lievtenant <hi>Morgan,</hi>
+               </item>
+               <item>Lievtenant <hi>Bartrom.</hi>
+               </item>
+               <item>Lievtenant <hi>Aſtelby.</hi>
+               </item>
+               <item>Lievtenant <hi>Story.</hi>
+               </item>
+               <item>Lievtenant <hi>Colborne.</hi>
+               </item>
+               <item>Lievtenant <hi>Conſtable.</hi>
+               </item>
+               <pb n="15" facs="tcp:154401:8"/>
+               <!-- PDF PAGE 91 -->
+               <item>Lievtenant <hi>Mansfield.</hi>
+               </item>
+               <item>Lievtenant <hi>Skipwith.</hi>
+               </item>
+               <item>Lievtenant <hi>Jefferſon.</hi>
+               </item>
+               <item>Lievtenant <hi>Power.</hi>
+               </item>
+               <item>Lievrcnant <hi>Brooke.</hi>
+               </item>
+               <item>Lievtenant <hi>VVhitney.</hi>
+               </item>
+               <item>Lievrcnant <hi>Ellyott.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Cornets.</head>
+               <item>Cornet <hi>Elſing.</hi>
+               </item>
+               <item>Cornet <hi>Julyan.</hi>
+               </item>
+               <item>Cornet <hi>Rainsford.</hi>
+               </item>
+               <item>Comet <hi>Morley.</hi>
+               </item>
+               <item>Cornet <hi>Peirſon.</hi>
+               </item>
+               <item>Cornet <hi>Fitz-VVilliams.</hi>
+               </item>
+               <item>Cornet <hi>Smith.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Quartermaſters.</head>
+               <item>
+                  <hi>Thomas Shelden,</hi> the Kings Quartermaſter.</item>
+               <item>Quartermaſter <hi>Collizer.</hi>
+               </item>
+               <item>Quartermaſter <hi>Lowe.</hi>
+               </item>
+               <item>Quartermaſter <hi>Brere.</hi>
+               </item>
+               <item>Trumpets five.</item>
+               <item>Corporalls two.</item>
+               <item>Gentlemen of the Kings Lifeguard, ſeventeen.</item>
+               <item>Twenty more Gentle<g ref="char:EOLhyphen"/>men.</item>
+               <item>Troopers between eight hundred and a thou<g ref="char:EOLhyphen"/>ſand.</item>
+               <item>Maſter <hi>Sherburne</hi> of <hi>Stannyhurst.</hi>
+               </item>
+               <item>Maſter <hi>VVillam Leigh<g ref="char:EOLhyphen"/>ton.</hi>
+               </item>
+               <item>Maſter <hi>Lewis Darcy.</hi>
+               </item>
+               <item>Maſter <hi>Henry Boucher.</hi>
+               </item>
+               <item>Maſter <hi>James Mounta<g ref="char:EOLhyphen"/>gue.</hi>
+               </item>
+               <item>Maſter <hi>Gilbert Mark<g ref="char:EOLhyphen"/>ham.</hi>
+               </item>
+               <item>Theſe very conſiderable Gentlemen.</item>
+            </list>
+            <list>
+               <head>Slaine.</head>
+               <item>Two Lords, 2 Knights, 1. Collonel, 1 Lieute<g ref="char:EOLhyphen"/>nant-Collonel, and three hundred and more Offi<g ref="char:EOLhyphen"/>cers and common Soul<g ref="char:EOLhyphen"/>diers.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
